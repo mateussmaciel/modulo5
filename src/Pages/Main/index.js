@@ -4,9 +4,8 @@ import { Title } from './styles';
 
 export default function Main() {
   return (
-    <Title error>
-      Main
-      <small>Menor</small>
+    <Title>
+      Brabo
     </Title>
   );
 }
